@@ -1,9 +1,10 @@
 import Layout from "../components/template/Layout";
 
 export default function Notificacoes() {
+
   return (
     <Layout titulo="Notificações" subtitulo="Gerenciar notificações">
-      <h3>Conteudo</h3>
+      <h1>Notificações</h1>
     </Layout>
   )
 }
